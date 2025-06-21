@@ -1,8 +1,9 @@
 - 👋 Hi, I’m Onatolu Oluwamayowa 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...@onatolumayowa2019@gmail.com
+- 👀 I’m a data analyst who enjoys documenting his learning journey
+- 🌱 I’m currently learning data storytelling
+- 💞️ I’m open to collaborate on data analysis projects, volunteer or otherwise
+- 📫 Let's connect on www.linkedin.com/in/onatolu22
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
